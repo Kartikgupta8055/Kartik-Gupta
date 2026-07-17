@@ -1,189 +1,252 @@
+```md
 <h1 align="center">Hi 👋, I'm Kartik Gupta</h1>
-<h3 align="center">Aspiring AI Engineer | Building Production-Ready Agentic AI Systems</h3>
+
+<h3 align="center">
+AI Engineer • Building Production-Grade Agentic AI Systems
+</h3>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
+Building scalable AI applications with LLMs, Multi-Agent Systems, RAG, Fine-Tuning, and Cloud Infrastructure.
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 Computer Science Engineering Student
-- 🤖 Passionate about **Generative AI**, **LLMs**, and **Agentic AI**
-- 🧠 Currently mastering production AI systems using **LangGraph**, **FastAPI**, **Docker**, and **PostgreSQL**
-- 🔍 Exploring **LLMOps**, **Model Context Protocol (MCP)**, **AI Evaluations**, and **Fine-tuning**
-- 🌱 Building real-world AI applications instead of tutorial projects
-- 🎯 Goal: Become an **AI Engineer** building scalable AI products
+I'm a Computer Science student passionate about designing **production-ready AI systems** rather than demo applications.
+
+My interests lie at the intersection of **LLMs, Agentic AI, LLMOps, Backend Engineering, and Cloud Infrastructure**, where I focus on building reliable, scalable, and cost-efficient AI products.
+
+**Current Focus**
+
+- 🤖 Production Agentic AI Systems
+- 🧠 Large Language Models (LLMs)
+- 🔬 LoRA & QLoRA Fine-Tuning
+- 📚 Retrieval-Augmented Generation (RAG)
+- ⚡ LLMOps & AI Infrastructure
+- ☁️ Cloud Deployment & Scalable APIs
 
 ---
 
-## 💻 Tech Stack
+# ⚙️ Tech Stack
 
-### Programming
+### Languages
 
 - Python
-- JavaScript
 - SQL
+- JavaScript
 
-### AI & Machine Learning
+### AI / Machine Learning
 
 - PyTorch
-- TensorFlow
-- Scikit-Learn
 - Hugging Face Transformers
+- Fine-Tuning
+- LoRA
+- QLoRA
+- PEFT
 - OpenAI API
 - Gemini API
 - Ollama
 - Sentence Transformers
+- Tokenizers
 
-### LLM Frameworks
+### Agentic AI
 
-- LangChain
 - LangGraph
-- CrewAI
-- MCP
-- RAG
-- Prompt Engineering
-- AI Agents
+- LangChain
+- Multi-Agent Systems
+- Model Context Protocol (MCP)
+- Tool Calling
+- Structured Output
+- Function Calling
+- Human-in-the-Loop
+- Memory Management
+- Context Engineering
 
-### Backend
+### RAG & Search
+
+- ChromaDB
+- Pinecone
+- Hybrid Search
+- Semantic Search
+- Embeddings
+- Document Parsing
+- Chunking Strategies
+- Reranking
+
+### Backend Engineering
 
 - FastAPI
 - REST APIs
-- JWT Authentication
-- OAuth
-- Keycloak (Learning)
-
-### Databases
-
 - PostgreSQL
-- MongoDB
 - Redis
-- ChromaDB
-- Pinecone
+- JWT Authentication
+- OAuth2
+- Async Programming
 
-### DevOps & Deployment
+### DevOps & Cloud
 
 - Docker
 - Git
-- GitHub
+- GitHub Actions
 - Linux
-- Render
-- Railway
-- Netlify
-- Vercel
-
-### Cloud (Learning)
-
 - AWS
 - Azure AI Foundry
 - Google Vertex AI
+- Vercel
+- Railway
+- Render
+
+### Observability & LLMOps
+
+- LangSmith
+- Prompt Versioning
+- AI Evaluations
+- Prompt Engineering
+- Cost Optimization
+- Caching
+- Monitoring
 
 ---
 
-# 🛠 Featured Projects
+# 🚀 Featured Production Projects
 
-## 🤖 Multi-Agent AI Systems
+## 🤖 Enterprise Multi-Agent AI Platform
 
-- Production-ready Agentic AI workflows
-- LangGraph state management
-- Tool Calling
-- Human-in-the-loop
+A production-ready agentic workflow platform capable of solving complex tasks through specialized collaborating AI agents.
+
+### Features
+
 - Multi-Agent Collaboration
-- Memory Management
+- Dynamic Tool Calling
+- Human-in-the-Loop Approval
+- Persistent Memory
+- State Management
+- Long-running Workflows
+- Structured Outputs
+- Retry & Error Recovery
+
+**Tech Stack**
+
+> LangGraph • LangChain • FastAPI • PostgreSQL • Redis • Docker • OpenAI • Gemini • MCP
 
 ---
 
-## 📄 RAG Chatbot
+## 📄 Production RAG Knowledge Assistant
 
-- Retrieval-Augmented Generation
-- Vector Databases
+An enterprise-grade Retrieval-Augmented Generation system capable of answering questions over large document collections with high accuracy and source attribution.
+
+### Features
+
+- Multi-format Document Parsing
 - Semantic Search
-- Document Parsing
 - Hybrid Retrieval
-- Source Attribution
+- Metadata Filtering
+- Context Compression
+- Source Citations
+- Conversation Memory
+- Streaming Responses
+
+**Tech Stack**
+
+> FastAPI • LangChain • ChromaDB • Pinecone • PostgreSQL • Redis • Docker • HuggingFace Embeddings
 
 ---
 
-## 🌱 Plant Disease Detection
+## 🧠 Parameter-Efficient LLM Fine-Tuning Pipeline
 
-Deep Learning application that:
+A complete fine-tuning workflow for adapting open-source LLMs while minimizing GPU memory and infrastructure costs.
 
-- Detects plant diseases using CNN
-- TensorFlow-based model
-- Gemini AI for treatment recommendations
-- Deployed on Netlify
+### Features
 
-**Model Performance**
+- LoRA Fine-Tuning
+- QLoRA
+- PEFT
+- Quantization
+- Dataset Preparation
+- Model Evaluation
+- Hugging Face Integration
 
-- Accuracy: **94.2%**
-- Precision: **92.8%**
-- Recall: **91.5%**
-- F1 Score: **92.1%**
+**Tech Stack**
+
+> PyTorch • Hugging Face Transformers • PEFT • BitsAndBytes • TRL • Accelerate
 
 ---
 
-## 📚 Currently Learning
+## 🌱 AI Plant Disease Intelligence System
+
+An end-to-end AI application for plant disease identification with intelligent diagnosis and treatment recommendations.
+
+### Features
+
+- Deep Learning Image Classification
+- AI-powered Treatment Suggestions
+- REST API Backend
+- Real-time Inference
+- Cloud Deployment
+
+**Tech Stack**
+
+> PyTorch • FastAPI • Gemini API • Docker • PostgreSQL • OpenCV
+
+---
+
+# 📖 Currently Learning
 
 - LLMOps
-- Fine-tuning Small LLMs
+- Distributed Inference
 - vLLM
-- Reinforcement Fine-Tuning
+- Reinforcement Fine-Tuning (RFT)
 - Speculative Decoding
+- Mixture of Experts (MoE)
+- Synthetic Data Generation
 - AI Evaluations
-- Synthetic Data
-- Redis
-- AWS
 - Kubernetes
 - CI/CD
-- Production AI Systems
+- AWS Bedrock
+- Azure AI Foundry
+- Computer Use Agents
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 2026 Goals
 
-- Build 10+ production-quality AI projects
-- Master LangGraph
-- Learn LLMOps deeply
-- Build scalable FastAPI backends
-- Contribute to Open Source
-- Land an AI Engineering Internship
+- Build production-grade AI products
+- Master Agentic AI architectures
+- Fine-tune open-source LLMs efficiently
+- Contribute to open-source AI projects
+- Learn scalable AI deployment
+- Become an AI Engineer building enterprise AI systems
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 📈 Activity Graph
+# 📈 Contribution Graph
 
-[![Kartik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Connect With Me
 
 - 💼 LinkedIn
 - 📧 Email
-- 🌐 Portfolio (Coming Soon)
+- 🌐 Portfolio *(Coming Soon)*
 
 ---
 
-## 💡 Quote
-
-> *"Build things that solve real problems, not just projects that fill a resume."*
-
-⭐ If you like my work, consider starring my repositories!
+> *"Engineering AI systems that are scalable, reliable, and ready for real-world production."*
+```
