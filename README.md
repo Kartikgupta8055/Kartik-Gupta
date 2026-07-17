@@ -1,183 +1,189 @@
 <h1 align="center">Hi 👋, I'm Kartik Gupta</h1>
-
-<h3 align="center">
-AI Engineer • Building Production-Grade Agentic AI Systems
-</h3>
+<h3 align="center">Aspiring AI Engineer | Building Production-Ready Agentic AI Systems</h3>
 
 <p align="center">
-Building scalable AI applications with LLMs • Agentic AI • RAG • Fine-Tuning • Backend Engineering
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://github.com/yourusername">
+    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 - 🎓 Computer Science Engineering Student
-- 🤖 Passionate about Production AI Systems
-- 🧠 Interested in LLMs, Agentic AI, RAG & LLMOps
-- 🔬 Exploring LoRA & QLoRA Fine-Tuning
-- ⚡ Building scalable AI backends using FastAPI
-- ☁️ Learning Cloud Deployment & AI Infrastructure
+- 🤖 Passionate about **Generative AI**, **LLMs**, and **Agentic AI**
+- 🧠 Currently mastering production AI systems using **LangGraph**, **FastAPI**, **Docker**, and **PostgreSQL**
+- 🔍 Exploring **LLMOps**, **Model Context Protocol (MCP)**, **AI Evaluations**, and **Fine-tuning**
+- 🌱 Building real-world AI applications instead of tutorial projects
+- 🎯 Goal: Become an **AI Engineer** building scalable AI products
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-### Languages
+### Programming
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- Python
+- JavaScript
+- SQL
 
-### AI / Machine Learning
+### AI & Machine Learning
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-green?style=for-the-badge)
-![LoRA](https://img.shields.io/badge/LoRA-red?style=for-the-badge)
-![QLoRA](https://img.shields.io/badge/QLoRA-orange?style=for-the-badge)
-![PEFT](https://img.shields.io/badge/PEFT-blueviolet?style=for-the-badge)
+- PyTorch
+- TensorFlow
+- Scikit-Learn
+- Hugging Face Transformers
+- OpenAI API
+- Gemini API
+- Ollama
+- Sentence Transformers
+
+### LLM Frameworks
+
+- LangChain
+- LangGraph
+- CrewAI
+- MCP
+- RAG
+- Prompt Engineering
+- AI Agents
 
 ### Backend
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)
+- FastAPI
+- REST APIs
+- JWT Authentication
+- OAuth
+- Keycloak (Learning)
 
-### DevOps
+### Databases
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+- PostgreSQL
+- MongoDB
+- Redis
+- ChromaDB
+- Pinecone
 
----
+### DevOps & Deployment
 
-# 🚀 Featured Production Projects
+- Docker
+- Git
+- GitHub
+- Linux
+- Render
+- Railway
+- Netlify
+- Vercel
 
-## 🤖 Enterprise Multi-Agent AI Platform
+### Cloud (Learning)
 
-Production-ready AI workflow platform built using multi-agent collaboration.
-
-**Highlights**
-
-- Multi-Agent Architecture
-- Tool Calling
-- Human-in-the-Loop
-- Persistent Memory
-- State Management
-- Long-running Workflows
-- Structured Outputs
-
-**Tech**
-
-`LangGraph` • `LangChain` • `FastAPI` • `Redis` • `PostgreSQL` • `Docker`
-
----
-
-## 📄 Production RAG Knowledge Assistant
-
-Enterprise Retrieval-Augmented Generation system with semantic search and source attribution.
-
-**Highlights**
-
-- Semantic Search
-- Hybrid Retrieval
-- Document Parsing
-- Metadata Filtering
-- Conversation Memory
-- Streaming Responses
-
-**Tech**
-
-`FastAPI` • `LangChain` • `ChromaDB` • `Pinecone` • `Redis`
-
----
-
-## 🧠 Parameter-Efficient LLM Fine-Tuning
-
-Production pipeline for adapting open-source LLMs efficiently.
-
-**Highlights**
-
-- LoRA
-- QLoRA
-- PEFT
-- Quantization
-- Dataset Preparation
-- Model Evaluation
-
-**Tech**
-
-`PyTorch` • `Transformers` • `PEFT` • `BitsAndBytes` • `TRL`
-
----
-
-## 🌱 AI Plant Disease Intelligence System
-
-Image classification system with AI-powered diagnosis.
-
-**Tech**
-
-`PyTorch` • `FastAPI` • `Gemini API` • `OpenCV`
-
----
-
-# 📚 Currently Learning
-
-- LLMOps
-- vLLM
-- AI Evaluations
-- Context Engineering
-- Speculative Decoding
-- Reinforcement Fine-Tuning
-- Kubernetes
-- CI/CD
 - AWS
 - Azure AI Foundry
+- Google Vertex AI
 
 ---
 
-# 📊 GitHub Stats
+# 🛠 Featured Projects
+
+## 🤖 Multi-Agent AI Systems
+
+- Production-ready Agentic AI workflows
+- LangGraph state management
+- Tool Calling
+- Human-in-the-loop
+- Multi-Agent Collaboration
+- Memory Management
+
+---
+
+## 📄 RAG Chatbot
+
+- Retrieval-Augmented Generation
+- Vector Databases
+- Semantic Search
+- Document Parsing
+- Hybrid Retrieval
+- Source Attribution
+
+---
+
+## 🌱 Plant Disease Detection
+
+Deep Learning application that:
+
+- Detects plant diseases using CNN
+- TensorFlow-based model
+- Gemini AI for treatment recommendations
+- Deployed on Netlify
+
+**Model Performance**
+
+- Accuracy: **94.2%**
+- Precision: **92.8%**
+- Recall: **91.5%**
+- F1 Score: **92.1%**
+
+---
+
+## 📚 Currently Learning
+
+- LLMOps
+- Fine-tuning Small LLMs
+- vLLM
+- Reinforcement Fine-Tuning
+- Speculative Decoding
+- AI Evaluations
+- Synthetic Data
+- Redis
+- AWS
+- Kubernetes
+- CI/CD
+- Production AI Systems
+
+---
+
+## 🎯 2026 Goals
+
+- Build 10+ production-quality AI projects
+- Master LangGraph
+- Learn LLMOps deeply
+- Build scalable FastAPI backends
+- Contribute to Open Source
+- Land an AI Engineering Internship
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight"/>
 
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)](https://github.com/ashutosh00710)
-
----
-
-# 🤝 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/kartik-gupta567/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/>
-</a>
-</p>
+[![Kartik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-<h3 align="center">
-"Building AI systems that solve real-world problems."
-</h3>
+## 🤝 Let's Connect
+
+- 💼 LinkedIn
+- 📧 Email
+- 🌐 Portfolio (Coming Soon)
+
+---
+
+## 💡 Quote
+
+> *"Build things that solve real problems, not just projects that fill a resume."*
+
+⭐ If you like my work, consider starring my repositories!
