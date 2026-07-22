@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kartik Gupta | AI Engineer</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+<style>
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Poppins',sans-serif;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+body{
+    background:#0f172a;
+    color:white;
+    line-height:1.7;
+}
+
+nav{
+    width:100%;
+    position:fixed;
+    top:0;
+    background:#111827dd;
+    backdrop-filter:blur(10px);
+    display:flex;
+    justify-content:center;
+    padding:18px;
+    z-index:1000;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:0 20px;
+    font-weight:500;
+    transition:.3s;
+}
+
+nav a:hover{
+    color:#38bdf8;
+}
+
+.hero{
+    min-height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+    padding:40px;
+}
+
+.hero h1{
+    font-size:65px;
+}
+
+.hero h1 span{
+    color:#38bdf8;
+}
+
+.hero h2{
+    margin-top:10px;
+    font-weight:400;
+    color:#cbd5e1;
+}
+
+.hero p{
+    max-width:800px;
+    margin:25px auto;
+    color:#94a3b8;
+}
+
+.btn{
+    display:inline-block;
+    margin:12px;
+    padding:14px 30px;
+    border-radius:8px;
+    text-decoration:none;
+    font-weight:600;
+    transition:.3s;
+}
+
+.primary{
+    background:#38bdf8;
+    color:black;
+}
+
+.secondary{
+    border:2px solid #38bdf8;
+    color:#38bdf8;
+}
+
+.btn:hover{
+    transform:translateY(-4px);
+}
+
+section{
+    max-width:1100px;
+    margin:auto;
+    padding:90px 20px;
+}
+
+.title{
+    text-align:center;
+    font-size:40px;
+    margin-bottom:50px;
+    color:#38bdf8;
+}
+
+.about{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(320px,1fr));
+    gap:30px;
+}
+
+.card{
+    background:#1e293b;
+    padding:30px;
+    border-radius:15px;
+}
+
+.skills{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(200px,1fr));
+    gap:20px;
+}
+
+.skill{
+    background:#1e293b;
+    padding:25px;
+    border-radius:12px;
+    text-align:center;
+}
+
+.projects{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(330px,1fr));
+    gap:30px;
+}
+
+.project{
+    background:#1e293b;
+    padding:25px;
+    border-radius:15px;
+}
+
+.project h3{
+    color:#38bdf8;
+    margin-bottom:15px;
+}
+
+ul{
+    padding-left:18px;
+}
+
+li{
+    margin-bottom:8px;
+}
+
+.timeline{
+    display:grid;
+    gap:25px;
+}
+
+.item{
+    background:#1e293b;
+    padding:25px;
+    border-left:5px solid #38bdf8;
+}
+
+.contact{
+    text-align:center;
+}
+
+footer{
+    text-align:center;
+    padding:30px;
+    background:#020617;
+    color:#94a3b8;
+}
+
+@media(max-width:700px){
+
+.hero h1{
+font-size:42px;
+}
+
+.hero h2{
+font-size:22px;
+}
+
+}
+
+</style>
+
+</head>
+<body>
+
+<nav>
+
+<a href="#about">About</a>
+<a href="#skills">Skills</a>
+<a href="#projects">Projects</a>
+<a href="#journey">Journey</a>
+<a href="#contact">Contact</a>
+
+</nav>
+
+<section class="hero">
+
+<div>
+
+<h1>Hi, I'm <span>Kartik Gupta</span></h1>
+
+<h2>AI Engineer • Generative AI • Agentic AI Developer</h2>
+
+<p>
+
+I build production-ready AI applications using Large Language Models, Agentic AI, LangGraph, FastAPI and modern backend technologies. My goal is to create intelligent systems that solve real-world problems rather than just demo projects.
+
+</p>
+
+<a class="btn primary" href="https://github.com/">GitHub</a>
+
+<a class="btn secondary" href="https://linkedin.com/">LinkedIn</a>
+
+</div>
+
+</section>
+
+<section id="about">
+
+<h2 class="title">About Me</h2>
+
+<div class="about">
+
+<div class="card">
+
+<h3>👨‍💻 Who Am I?</h3>
+
+<p>
+
+I'm a Computer Science Engineering student passionate about Artificial Intelligence and Large Language Models. I enjoy learning how modern AI systems work internally and building scalable AI products.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>🎯 Career Goal</h3>
+
+<p>
+
+Become a Production AI Engineer specializing in Agentic AI, LLMOps, Multi-Agent Systems and scalable backend architectures.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>🚀 Interests</h3>
+
+<p>
+
+Generative AI, RAG Systems, Fine-Tuning, FastAPI, Docker, LangGraph, Redis, PostgreSQL, Cloud Deployment and AI Infrastructure.
+
+</p>
+
+</div>
+
+</div>
+
+</section>
+
+<section id="skills">
+
+<h2 class="title">Tech Stack</h2>
+
+<div class="skills">
+
+<div class="skill">
+<h3>Python</h3>
+</div>
+
+<div class="skill">
+<h3>FastAPI</h3>
+</div>
+
+<div class="skill">
+<h3>LangChain</h3>
+</div>
+
+<div class="skill">
+<h3>LangGraph</h3>
+</div>
+
+<div class="skill">
+<h3>PyTorch</h3>
+</div>
+
+<div class="skill">
+<h3>TensorFlow</h3>
+</div>
+
+<div class="skill">
+<h3>Docker</h3>
+</div>
+
+<div class="skill">
+<h3>PostgreSQL</h3>
+</div>
+
+<div class="skill">
+<h3>MongoDB</h3>
+</div>
+
+<div class="skill">
+<h3>Redis</h3>
+</div>
+
+<div class="skill">
+<h3>Git & GitHub</h3>
+</div>
+
+<div class="skill">
+<h3>OpenAI API</h3>
+</div>
+
+</div>
+
+</section>
+
+<section id="projects">
+
+<h2 class="title">Featured Projects</h2>
+
+<div class="projects">
+
+<div class="project">
+
+<h3>🌱 Plant Disease Detection</h3>
+
+<p>
+
+Deep Learning project using TensorFlow CNN that detects plant diseases and provides AI-powered treatment recommendations.
+
+</p>
+
+<br>
+
+<ul>
+
+<li>94.2% Accuracy</li>
+<li>TensorFlow CNN</li>
+<li>Gemini API Integration</li>
+<li>Netlify Deployment</li>
+
+</ul>
+
+</div>
+
+<div class="project">
+
+<h3>🤖 RAG Chatbot</h3>
+
+<p>
+
+Built an intelligent Retrieval-Augmented Generation system capable of answering questions from custom documents.
+
+</p>
+
+<br>
+
+<ul>
+
+<li>Vector Search</li>
+<li>Semantic Retrieval</li>
+<li>LangChain</li>
+<li>ChromaDB</li>
+
+</ul>
+
+</div>
+
+<div class="project">
+
+<h3>🧠 Multi-Agent AI System</h3>
+
+<p>
+
+Developing autonomous AI agents capable of planning, tool calling, memory management and collaborative reasoning.
+
+</p>
+
+<br>
+
+<ul>
+
+<li>LangGraph</li>
+<li>FastAPI</li>
+<li>Docker</li>
+<li>Redis</li>
+
+</ul>
+
+</div>
+
+</div>
+
+</section>
+
+<section id="journey">
+
+<h2 class="title">Learning Journey</h2>
+
+<div class="timeline">
+
+<div class="item">
+
+<h3>Machine Learning</h3>
+
+<p>
+
+Python • NumPy • Pandas • Scikit-Learn • TensorFlow • PyTorch
+
+</p>
+
+</div>
+
+<div class="item">
+
+<h3>Generative AI</h3>
+
+<p>
+
+Transformers • Hugging Face • Prompt Engineering • RAG • Embeddings • LLM APIs
+
+</p>
+
+</div>
+
+<div class="item">
+
+<h3>Production AI</h3>
+
+<p>
+
+LangGraph • FastAPI • Docker • PostgreSQL • Redis • LLMOps • Agentic AI
+
+</p>
+
+</div>
+
+</div>
+
+</section>
+
+<section id="contact">
+
+<h2 class="title">Let's Connect</h2>
+
+<div class="contact">
+
+<p>
+
+Always interested in collaborating on AI projects, open-source contributions and innovative ideas.
+
+</p>
+
+<br>
+
+<h3>Email</h3>
+
+<p>your-email@example.com</p>
+
+<br>
+
+<h3>GitHub</h3>
+
+<p>https://github.com/yourusername</p>
+
+<br>
+
+<h3>LinkedIn</h3>
+
+<p>https://linkedin.com/in/your-profile</p>
+
+</div>
+
+</section>
+
+<footer>
+
+<p>
+
+© 2026 Kartik Gupta • Built with HTML & CSS
+
+</p>
+
+</footer>
+
+</body>
+</html>
